@@ -58,7 +58,7 @@ Short explanation of the problem the app solves and what the project does.
 ---
 
 ### 📌 Project Name
-**Student:** Full Name  
+**Student:** Full Name (or First Name) 
 **Cohort:** Frontend Development  
 
 **Description:**  
@@ -88,6 +88,7 @@ Projects featured here demonstrate:
 ---
 
 ## 👨‍🏫 Instructor
+**Imran Usman-Shaba**
 **Full-Stack Web Development Instructor**  
 JCS Abuja  
 
