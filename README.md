@@ -58,8 +58,8 @@ Short explanation of the problem the app solves and what the project does.
 ---
 
 ### 📌 Project Name
-**Student:** Full Name (or First Name) 
-**Cohort:** Frontend Development  
+**Student:** Full Name (or First Name)  
+**Cohort:** Frontend Development – 2025  
 
 **Description:**  
 Brief overview of the project and its goal.
@@ -88,7 +88,7 @@ Projects featured here demonstrate:
 ---
 
 ## 👨‍🏫 Instructor
-**Imran Usman-Shaba**
+**Imran Usman-Shaba**  
 **Full-Stack Web Development Instructor**  
 JCS Abuja  
 
