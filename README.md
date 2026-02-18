@@ -36,6 +36,26 @@ Depending on cohort and project, students work with:
 
 ---
 
+### 📌 Project Name: TechCrafters Website
+**Student:** Princewill Nwabueze  
+**Cohort:** Web Development – 2025  
+
+**Description:**  
+Brief overview of the project and its goal.
+
+**Key Features:**
+- Modern UI
+- Mobile responsiveness
+- Clean component structure
+
+**Tech Stack:**  
+`HTML` · `CSS` · `JavaScript`
+
+🔗 **GitHub Repo:** https://github.com/username/project-name  
+🌐 **Live Demo:** https://princeprojectjcs.netlify.app/
+
+---
+
 ### 📌 Project Name
 **Student:** Full Name (or First Name)  
 **Cohort:** Full-Stack Web Development – 2025  
