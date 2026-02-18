@@ -51,7 +51,7 @@ Brief overview of the project and its goal.
 **Tech Stack:**  
 `HTML` · `CSS` · `JavaScript`
 
-🔗 **GitHub Repo:** https://github.com/username/project-name  
+🔗 **GitHub Repo:** https://github.com/princewillnwabueze0714  
 🌐 **Live Demo:** https://princeprojectjcs.netlify.app/
 
 ---
