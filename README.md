@@ -38,7 +38,7 @@ Depending on cohort and project, students work with:
 
 ### 📌 Project Name: TechCrafters Website
 **Student:** Princewill Nwabueze  
-**Cohort:** Web Development – 2025  
+**2025 Cohort 2:** Web Development – 2025  
 
 **Description:**  
 Brief overview of the project and its goal.
