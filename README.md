@@ -1,6 +1,6 @@
 # 🎓 JCS Abuja – Student Project Showcase
 
-Welcome to the **official showcase of outstanding student projects** from the Full-Stack Web Development program at **JCS Abuja**.
+Welcome to the **official showcase of outstanding student projects** from the Web Development program at **JCS Abuja**.
 
 This repository highlights real-world applications built by our students using modern web technologies, demonstrating practical skills in frontend, backend, and full-stack development.
 
@@ -21,7 +21,7 @@ This repository highlights real-world applications built by our students using m
 Depending on cohort and project, students work with:
 
 - HTML5, CSS3, JavaScript (ES6+)
-- React / Next.js
+- React
 - Node.js & Express
 - MongoDB / PostgreSQL
 - REST APIs
